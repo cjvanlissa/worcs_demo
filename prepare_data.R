@@ -4,3 +4,4 @@
 # to store the data.
 
 library(worcs)
+closed_data(iris)
